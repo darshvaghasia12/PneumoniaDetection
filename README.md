@@ -33,7 +33,7 @@
   <h2>Usage</h2>
   <ol>
     <li>Clone the Repository
-      <pre>git clone https://github.com/yourusername/pneumonia-detection.git
+      <pre>git clone https://github.com/darshvaghasia12/PneumoniaDetection
 cd pneumonia-detection</pre></li>
     <li>Install Dependencies
       <pre>pip install -r requirements.txt</pre></li>
@@ -56,6 +56,6 @@ cd pneumonia-detection</pre></li>
   <p>Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open a pull request.</p>
 
   <h2>Contact</h2>
-  <p>For any questions or inquiries about this project, please contact <a href="mailto:darshvaghasia@icloud.com">Your Name</a>.</p>
+  <p>For any questions or inquiries about this project, please contact <a href="mailto:darshvaghasia@icloud.com">Darsh Maheshkumar Vaghasia</a>.</p>
 </body>
 </html>
