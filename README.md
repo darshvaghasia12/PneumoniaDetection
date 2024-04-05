@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pneumonia Detection Project Using VGG16 and VGG19</title>
 </head>
 <body>
   <h1>Pneumonia Detection Project Using VGG16 and VGG19</h1>
